@@ -1,4 +1,6 @@
 <div align="center">
+
+<img src="resource/icon.svg" width="140px" />
   
 # HintMouse
 
